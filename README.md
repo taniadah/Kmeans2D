@@ -1,7 +1,7 @@
 # Kmeans2D
 simulación Kmeans2D 
 
-![imagen](https://raw.githubusercontent.com/taniadah/Kmeans2D/main/Kmeans2D (1).gif)<br>
+![imagen](https://github.com/taniadah/Kmeans2D/blob/main/kmeans2D%20(1).gif)<br>
 
 ### Lenguaje de programación
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&labelColor=101010)<br>
